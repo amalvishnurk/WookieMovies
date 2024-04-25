@@ -4,9 +4,10 @@
    - Create a file named `.env` in the root directory of your project.
 
 2. **Add the following variables to the `.env` file:**
-   ```plaintext
-  DB = mongodb://127.0.0.1:27017/WookieMovie
-  PORT= 8000
+     ```plaintext
+   DB=mongodb://127.0.0.1:27017/WookieMovie
+   PORT=8000
+   
 
 3. **Installing Dependencies**
 
